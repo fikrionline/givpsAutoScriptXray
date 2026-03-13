@@ -1,5 +1,7 @@
 # (MUST READ) before install
 
+# Versi HAProxy berjalan mulus. Versi STunnel masih ada error.
+
 <h2 align="center">Supported Linux Distributions</h2>
 
 <p align="center">
