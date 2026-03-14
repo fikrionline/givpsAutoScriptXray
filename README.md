@@ -1,4 +1,5 @@
-# Versi HAProxy berjalan mulus. Versi STunnel masih ada error.
+Jika nginx error: nginx: [emerg] unknown directive "ssl_conf_command" in /etc/nginx/conf.d/xray.conf:95
+Tambahkan # pada /etc/nginx/conf.d/xray.conf
 
 <h2 align="center">Supported Linux Distributions</h2>
 
