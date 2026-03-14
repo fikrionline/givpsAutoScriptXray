@@ -1,5 +1,6 @@
-Jika nginx error: nginx: [emerg] unknown directive "ssl_conf_command" in /etc/nginx/conf.d/xray.conf:95
-Tambahkan # pada /etc/nginx/conf.d/xray.conf
+<p>Jika nginx error: nginx: [emerg] unknown directive "ssl_conf_command" in /etc/nginx/conf.d/xray.conf:95</p>
+
+<p></p>Tambahkan # pada /etc/nginx/conf.d/xray.conf</p>
 
 <h2 align="center">Supported Linux Distributions</h2>
 
